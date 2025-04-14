@@ -53,6 +53,7 @@
             android:padding="5dp"
             android:fontFamily="@font/lobster_two"
             android:layout_margin="15dp"
+            android:textColor="@color/white"
             android:background="@drawable/rounded_login"/>
 
         <EditText
@@ -63,12 +64,14 @@
             android:padding="5dp"
             android:fontFamily="@font/lobster_two"
             android:layout_margin="15dp"
+            android:textColor="@color/white"
             android:background="@drawable/rounded_login"/>
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="e-mail cím"
+            android:textColor="@color/white"
             android:textColorHint="@color/white"
             android:padding="5dp"
             android:fontFamily="@font/lobster_two"
@@ -79,6 +82,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="jelszó"
+            android:textColor="@color/white"
             android:textColorHint="@color/white"
             android:padding="5dp"
             android:fontFamily="@font/lobster_two"

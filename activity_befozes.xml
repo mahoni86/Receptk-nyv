@@ -11,6 +11,7 @@
     tools:context="foMenu.befozes">
 
 
+
     <TextView
         android:id="@+id/befott"
         android:layout_width="match_parent"
